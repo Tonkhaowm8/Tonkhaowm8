@@ -22,7 +22,7 @@ Tools used: <code><img height="20" src="https://raw.githubusercontent.com/github
 <code><img height="20" src="https://github.com/pandas-dev.png"></code>
 <code><img height="20" src="https://github.com/opencv.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<br>
+<br><br>
 **UWU-RE:** https://github.com/Chissanu/UWU-Re <br>
 <em> A second iteration of drink dispensing machine which can dispense drinks up to 5 drinks </em><br>
 Tools used: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
