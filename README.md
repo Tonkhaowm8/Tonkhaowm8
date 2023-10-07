@@ -9,6 +9,10 @@
 ## :hammer: I'm currently working on
 POS Software: https://github.com/Tonkhaowm8/POS_Piece-Of-Software
 
+## :zap: Cool projects to check out
+AI Chat app: https://github.com/Chissanu/Cube
+<em> An AI Chat app which shows your emotion to the other and also other emotions to you when texting so that you can know whether your friends are fake laughing when you send them memes or not </em> 
+
 Tools used: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
