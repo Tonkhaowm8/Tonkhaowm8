@@ -1,7 +1,15 @@
 <code><img src="intro.gif"></code>
 
 ## :book: About Me
-Hello, I'm **Siraphop Mukdaphetcharat**, an undergraduate from the Faculty of Computer Innovation Engineering from King's Monkut Institutional of Technology Ladkrabang (KMITL). I'm based in Bangkok, currently in year 3, looking for opportunities for colaborations and learning new technologies.
+<li>Based in Bangkok, Thailand 🏠</li>
+<li>Studying Computer Innovation Engineering at King's monkut Institution of Technology Ladkrabang 🎓</li>
+<li>Been programming for 6 years 🖥️</li>
+<li>Have interests in Web development and AI technology 🤖</li>
+
+## :hammer: I'm currently working on
+Point Of Sale application
+
+
 
 ## :computer: Programming Languages and Tools
 
