@@ -1,17 +1,17 @@
 ### Welcome to my Github Page
 
-Hello, I'm Siraphop Mukdaphetcharat, an undergraduate from the Faculty of Computer Innovation Engineering from King's Monkut Institutional of Technology Ladkrabang (KMITL). I'm based in Bangkok, currently in year 3, looking for opportunities for colaborations and learning new technologies.
+Hello, I'm **Siraphop Mukdaphetcharat**, an undergraduate from the Faculty of Computer Innovation Engineering from King's Monkut Institutional of Technology Ladkrabang (KMITL). I'm based in Bangkok, currently in year 3, looking for opportunities for colaborations and learning new technologies.
 
-Current Programming Languages and tools
+Programming Languages and tools
 
-Languages: 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+Languages:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">``</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
-Libraries: 
+Libraries:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://github.com/numpy.png"></code>
