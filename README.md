@@ -7,7 +7,7 @@
 <li>Have interests in Web development and AI technology 🤖</li>
 
 ## :hammer: I'm currently working on
-POS Software: https://github.com/Tonkhaowm8/POS_Piece-Of-Software
+**POS Software:** https://github.com/Tonkhaowm8/POS_Piece-Of-Software
 
 Tools used: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -15,8 +15,8 @@ Tools used: <code><img height="20" src="https://raw.githubusercontent.com/github
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
 ## :zap: Cool projects to check out
-AI Chat app: https://github.com/Chissanu/Cube <br>
-<em> An AI Chat app which shows your emotion to the other and also other emotions to you when texting so that you can know whether your friends are fake laughing when you send them memes or not </em>  <br>
+**AI Chat app:** https://github.com/Chissanu/Cube <br>
+<em> An AI Chat app which shows your emotion to the other and also other emotions to you when texting so that you can know whether your friends are fake laughing when you send them memes or not </em><br>
 Tools used: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://github.com/numpy.png"></code>
 <code><img height="20" src="https://github.com/pandas-dev.png"></code>
