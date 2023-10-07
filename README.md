@@ -1,5 +1,4 @@
 <code><img src="intro.gif"></code>
-
 Hello, I'm **Siraphop Mukdaphetcharat**, an undergraduate from the Faculty of Computer Innovation Engineering from King's Monkut Institutional of Technology Ladkrabang (KMITL). I'm based in Bangkok, currently in year 3, looking for opportunities for colaborations and learning new technologies.
 
 Programming Languages and tools
