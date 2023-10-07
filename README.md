@@ -7,7 +7,7 @@
 <li>Have interests in Web development and AI technology 🤖</li>
 
 ## :hammer: I'm currently working on
-<code><href = "https://github.com/Tonkhaowm8/POS_Piece-Of-Software"> Point Of Sale application </code>
+POS Software: https://github.com/Tonkhaowm8/POS_Piece-Of-Software
 
 Tools used: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
