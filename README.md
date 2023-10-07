@@ -16,7 +16,13 @@ Tools used: <code><img height="20" src="https://raw.githubusercontent.com/github
 
 ## :zap: Cool projects to check out
 AI Chat app: https://github.com/Chissanu/Cube <br>
-<em> An AI Chat app which shows your emotion to the other and also other emotions to you when texting so that you can know whether your friends are fake laughing when you send them memes or not </em> 
+<em> An AI Chat app which shows your emotion to the other and also other emotions to you when texting so that you can know whether your friends are fake laughing when you send them memes or not </em>  <br>
+Tools used: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://github.com/numpy.png"></code>
+<code><img height="20" src="https://github.com/pandas-dev.png"></code>
+<code><img height="20" src="https://github.com/opencv.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
 
 ## :computer: Programming Languages and Tools
 
