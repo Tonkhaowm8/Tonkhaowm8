@@ -3,7 +3,7 @@
 ## :book: About Me
 <li>Based in Bangkok, Thailand 🏠</li>
 <li>Studying Computer Innovation Engineering at King's monkut Institution of Technology Ladkrabang 🎓</li>
-<li>Been programming for 6 years 🖥️</li>
+<li>Been programming for 8 years 🖥️</li>
 <li>Have interests in Web development and AI technology 🤖</li>
 
 ## :hammer: I'm currently working on
